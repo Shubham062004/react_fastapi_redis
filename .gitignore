@@ -1,20 +1,7 @@
-# Python
-venv/
-.venv/
+*.pyc
 __pycache__/
-*.py[cod]
-*$py.class
-*.env
-!.env.example
+env/
+venv/
+.env
 
-# Node.js
-node_modules/
-dist/
-dist-ssr/
-*.local
-
-# IDE & System
-.vscode/
-.idea/
-.DS_Store
-*.log
+.vercel
